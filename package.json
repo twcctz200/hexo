@@ -54,7 +54,7 @@
     "micromatch": "^4.0.4",
     "moize": "^6.1.6",
     "moment": "^2.29.1",
-    "moment-timezone": "^0.5.34",
+    "moment-timezone": "^0.6.0",
     "nunjucks": "^3.2.3",
     "picocolors": "^1.0.0",
     "pretty-hrtime": "^1.0.3",
